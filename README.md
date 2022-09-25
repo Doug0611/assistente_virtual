@@ -1,4 +1,4 @@
-# assistente_virtual
+# assistente virtual
 
 ## projeto pessoal de uma assistente virtual chamada safira
 
