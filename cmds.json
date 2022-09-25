@@ -1,0 +1,102 @@
+[
+    {
+        "text": "que horas são",
+        "label": "time"
+    },
+    {
+        "text": "informe as horas",
+        "label": "time"
+    },
+    {
+        "text": "me informe as horas",
+        "label": "time"
+    },
+    {
+        "text": "horas",
+        "label": "time"
+    },
+    {
+        "text": "me diga as horas",
+        "label": "time"
+    },
+    {
+        "text": "que horas",
+        "label": "time"
+    },
+    {
+        "text": "as horas",
+        "label": "time"
+    },
+    {
+        "text": "que horas",
+        "label": "time"
+    },
+    {
+        "text": "data",
+        "label": "date"
+    },
+    {
+        "text": "data de hoje",
+        "label": "date"
+    },
+    {
+        "text": "o que é",
+        "label": "search"
+    },
+    {
+        "text": "pesquise por",
+        "label": "search"
+    },
+    {
+        "text": "pesquise o que é",
+        "label": "search"
+    },
+    {
+        "text": "busque o que é",
+        "label": "search"
+    },
+    {
+        "text": "busque por",
+        "label": "search"
+    },
+    {
+        "text": "qual a",
+        "label": "search"
+    },
+    {
+        "text": "qual as",
+        "label": "search"
+    },
+    {
+        "text": "qual o",
+        "label": "search"
+    },
+    {
+        "text": "qual os",
+        "label": "search"
+    },
+    {
+        "text": "notícias de",
+        "label": "news"
+    },
+    {
+        "text": "qual as notícas de hoje",
+        "label": "news"
+    },
+    {
+        "text": "notícas de hoje",
+        "label": "news"
+    },
+    {
+        "text": "manchetes de hoje",
+        "label": "news"
+    },
+    {
+        "text": "qual as manchetes de hoje",
+        "label": "news"
+    },
+    {
+        "text": "manchetes de",
+        "label": "news"
+    }
+]
