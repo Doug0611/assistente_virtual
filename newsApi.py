@@ -8,11 +8,11 @@ import asyncio
 
 @dataclass
 class NewsApi:
-    lang = "pt"
-    start_date = ""
-    end_date = ""
-    region = "br"
-    page_size = 5
+    lang: str = "pt"
+    start_date: str = ""
+    end_date: str= ""
+    region: str = "br"
+    page_size: int = 5
 
     def set_lang(self, lang: str) -> None:
         self.lang = lang
