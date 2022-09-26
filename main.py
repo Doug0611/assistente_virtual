@@ -43,7 +43,7 @@ class VirtualAssist(Skills):
         try:
             data = self.__get_api_key('m_azure')
             speech_config = speechsdk.SpeechConfig(
-                subscription=data['api_key'],
+                subscription=data['key'],
                 region=data['region']
             )
         except ValueError:
