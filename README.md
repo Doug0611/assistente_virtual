@@ -10,7 +10,7 @@ safira utiliza algumas library python para processamento de linguagem natural co
 
 o objetivo de safira é ser executada em um raspberry pi
 
-> O arquivo "requirements. txt" contém as informações e versões dos pacotes necessários para rodar o projeto
+> O arquivo "requirements. txt" contém as dependências para rodar o projeto
 > 
 ### para instalar use:
 
